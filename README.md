@@ -1,157 +1,65 @@
-# Марина Погодина
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Марина Погодина — инженер и аудитор ИТ-рисков" width="1280" height="220">
+</picture>
 
-**Инженер и аудитор ИТ-рисков. Делаю [PROMAREN](https://promaren.ru): снимаю с малого и среднего бизнеса ручную работу.**
+**Инженер и аудитор ИТ-рисков.** 17 лет в ИТ, из них 14 — в аудите ИТ и внутреннем контроле. Больше 60 аудитов информационной безопасности для компаний топ-100: SOX, COBIT 2019, ISO/IEC 27001, 152-ФЗ, GDPR, работа со стороной регулятора и с BIG4.
 
-[![Сайт — promaren.ru](https://img.shields.io/badge/Сайт-promaren.ru-0573B8?style=for-the-badge&labelColor=0C0F13)](https://promaren.ru)
-[![Разбор лендинга — бесплатно](https://img.shields.io/badge/Разбор_лендинга-пришлите_ссылку-0573B8?style=for-the-badge&labelColor=0C0F13)](https://promaren.ru/audit/)
-[![Канал в MAX](https://img.shields.io/badge/Канал-MAX-0573B8?style=for-the-badge&labelColor=0C0F13)](https://web.max.ru/-70766013912566)
-[![Канал в Telegram](https://img.shields.io/badge/Канал-Telegram-0573B8?style=for-the-badge&labelColor=0C0F13)](https://t.me/promaren)
-
----
-
-## Что вы поняли за пять секунд
-
-Это тест, которым я разбираю чужие лендинги. Справедливо применить его и к собственному профилю — вот три строки, которые он должен оставить в голове:
-
-| Вопрос | Ответ |
-|---|---|
-| Что делаю | Мини-приложения в MAX и Telegram, личные кабинеты, CRM, агентов над 1С |
-| Кому | Малому и среднему бизнесу, у которого ручная работа съедает людей |
-| Что получите | Цену, срок и размер моей неустойки — до договора |
-
-Не сходится — [напишите об этом](https://promaren.ru/contacts/), это тоже полезный разбор.
-
----
-
-## Условия
-
-Три показания, которые обычно узнают после подписания. Я называю их до.
-
-![Разработка от 200 000 ₽](https://img.shields.io/badge/Разработка-от_200_000_₽-E8A33B?style=flat-square&labelColor=0C0F13)
-![Срок от 4 недель](https://img.shields.io/badge/Срок-от_4_недель-E8A33B?style=flat-square&labelColor=0C0F13)
-![Просрочка минус 20%](https://img.shields.io/badge/Просрочка_по_моей_вине-минус_20%25-E8A33B?style=flat-square&labelColor=0C0F13)
-
-| Условие | Как это записано в договоре |
-|---|---|
-| Цена не меняется до запуска | фиксируется на этапе обследования |
-| Просрочка по моей вине | стоимость работ уменьшается на 20%, п. 3.2 |
-| Оплата | 50% перед этапом, 50% после приёмки; аванса за весь проект нет |
-| Репозиторий | на вашем аккаунте с первого дня, с историей изменений |
-| Гарантия | 14 дней бесплатных доработок после приёмки |
-| Порог | проекты дешевле 150 000 ₽ не беру — в меньший бюджет не помещаются ни обследование, ни документация, ни гарантия |
-
-[Образец договора (PDF)](https://promaren.ru/legal/contract-sample.pdf) · [Цены целиком](https://promaren.ru/prices/)
-
----
-
-## Как идёт работа
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1A2028","primaryTextColor":"#FFFFFF","primaryBorderColor":"#323E4E","lineColor":"#939EAE","fontFamily":"ui-monospace, SFMono-Regular, monospace","fontSize":"14px"}}}%%
-flowchart LR
-    A["Обследование<br/>ТЗ по ГОСТ, схема,<br/>точная цена"] --> B["Этап 1<br/>50% перед,<br/>50% после приёмки"]
-    B --> C["Этап 2<br/>то же условие"]
-    C --> D["Запуск<br/>документация,<br/>обучение"]
-    D --> E["14 дней<br/>бесплатных<br/>доработок"]
-    classDef pokazanie fill:#1A2028,stroke:#E8A33B,stroke-width:2px,color:#E8A33B;
-    class E pokazanie;
-```
-
-Каждый этап начинается только после предоплаты по нему и передачи доступов — до этого срок не течёт. Просрочил по своей вине — стоимость этапа падает на 20%.
-
----
+Сейчас проектирую и пишу ИИ-сервисы и автоматизацию: боты и мини-приложения, магазины и кабинеты, CRM, команды ИИ-агентов, интеграции и аналитику. Логи, разметка, журнал согласий и проверки закладываются ещё на этапе проектирования. Аудитор во мне знает, какие вопросы задаст проверяющий через год.
 
 ## Что делаю
 
-Весь каталог — [promaren.ru/services](https://promaren.ru/services/), цены целиком — [promaren.ru/prices](https://promaren.ru/prices/). Здесь тот же состав, чтобы не пришлось открывать сайт.
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Боты и мини-приложения</strong> для MAX, Telegram и ВКонтакте: саммари, продажи, антиспам, комментарии с ветками и автоответом, приложения и Mini Apps под задачу.</td>
+    <td width="50%" valign="top">Личные кабинеты и веб-платформы под задачу.</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><strong>Полноценный интернет-магазин:</strong> каталог, корзина, оплата, доставка, личный кабинет, обмен с учётной системой.</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><strong>Команда ИИ-агентов с оркестрацией и консультанты по вашим данным.</strong> Собираю штат агентов с ролями: маркетинг, SMM, SEO, контент, публикация, юрист, аналитика и другие профильные задачи. Оркестратор ставит задачи и ведёт их по контурам, агенты работают по расписанию и по событиям. У каждого — роль, память, навыки и инструменты, в том числе MCP-подключения к базам и сервисам. Результаты проходят контроль качества; публикации, платежи и другие внешние действия остаются за человеком в контуре. Консультанты отвечают по вашим документам и показывают источник.</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><strong>Агенты, аналитика и интеграции над любой учётной системой</strong> — 1С, SAP, Битрикс24, amoCRM, МойСклад, Excel, Google Sheets и другими. Метрики, дашборды и BI, Яндекс Метрика и вебаналитика, сквозная аналитика. Обмен с маркетплейсами Wildberries и Ozon, автоматизация документооборота, отчётность.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">CRM: внедрение под процесс, доработка, своя система.</td>
+    <td width="50%" valign="top">Мобильные приложения на Flutter для iOS и Android.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">Контент-завод коротких видео: генерация и автопостинг в соцсети.</td>
+    <td width="50%" valign="top">Экспертный блог с SEO и GEO: контент-план, статьи, автопостинг, оптимизация под AI-поисковики.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">Автоматизация воронок продаж в соцсетях.</td>
+    <td width="50%" valign="top">Сборка под эксперта: продукт, сайт, приложение, ассистент и воронка.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">Обследование и техническое задание перед разработкой.</td>
+    <td width="50%" valign="top">Аудит персональных данных по 152-ФЗ.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">Документация по ГОСТ на программную систему.</td>
+    <td width="50%" valign="top">Сопровождение системы после запуска.</td>
+  </tr>
+</table>
 
-### Разработка
-
-| Услуга | Цена | Срок |
-|---|---|---|
-| Мини-приложения для MAX и Telegram | от 200 000 ₽ | от 4 недель |
-| Сайты, личные кабинеты и веб-платформы | от 200 000 ₽ | от 4 недель |
-| AI-агенты и консультанты по вашим данным | от 300 000 ₽ | от 4 недель |
-| CRM: внедрение под процесс, доработка, своя система | от 500 000 ₽ | от 3 недель |
-| AI-агенты над 1С | от 800 000 ₽ | от 4 недель |
-| Мобильные приложения на Flutter для iOS и Android | от 1 000 000 ₽ | от 2 месяцев |
-
-### Проверка и документы
-
-| Услуга | Цена | Срок |
-|---|---|---|
-| Обследование и техническое задание перед разработкой | от 150 000 ₽ | 1–2 недели |
-| Аудит персональных данных по 152-ФЗ | от 150 000 ₽ | 5–10 рабочих дней |
-| Документация по ГОСТ на программную систему | от 200 000 ₽ | от 3 недель |
-
-### Работа с тем, что уже есть
-
-| Услуга | Цена | Срок |
-|---|---|---|
-| Интеграции: связать системы, между которыми ходят руками | от 150 000 ₽ | от 2 недель |
-| Сопровождение системы после запуска | от 60 000 ₽ в месяц | с любого месяца |
-
-Готовые продукты поверх этих услуг — контент-завод, экспертный блог с SEO и GEO, боты для MAX и Telegram, автоматизация воронок, «бизнес под эксперта» — [promaren.ru/products](https://promaren.ru/products/).
-
-<details>
-<summary><b>Когда не берусь</b></summary>
-
-<br/>
-
-- **Бюджет меньше 150 000 ₽.** В него не помещаются ни обследование, ни документация, ни гарантия. Работа без них называется иначе и стоит иначе.
-- **«Сделайте как у конкурента».** Без своего процесса и своих данных получится копия чужой витрины, которая не продаёт.
-- **Задача не моя.** Скажу в первом ответе, обычно в течение двух рабочих дней, и объясню, к кому идти.
-
-</details>
-
-<details>
-<summary><b>Откуда дисциплина в коде</b></summary>
-
-<br/>
-
-17 лет в ИТ и управлении технологическими рисками, из них **14 лет в аудите ИТ и внутреннем контроле**. Более **60 аудитов** ИТ и информационной безопасности для компаний топ-100: SOX, COBIT 2019, ISO/IEC 27001, 152-ФЗ, GDPR, работа со стороной регулятора и с BIG4.
-
-Поэтому логи, разметка, журнал согласий и проверки закладываются на этапе проектирования. Аудитор во мне знает, какие вопросы задаст проверяющий через год.
-
-</details>
-
-<details>
-<summary><b>Чем подкреплено</b></summary>
-
-<br/>
-
-| Замер | Что было |
-|---|---|
-| Контент-завод, 28 дней | 108 417 просмотров, старт с 12 подписчиков |
-| Тот же канал, 41 день | 12 → 90 подписчиков |
-| Экспертный блог, 6 месяцев | +2 807% органического трафика |
-
-Разборы этих запусков с методикой и цифрами — [promaren.ru/cases](https://promaren.ru/cases/).
-
-</details>
-
----
-
-## Открытый код
-
-**[studio-orbita-demo](https://github.com/unnamed00bas/studio-orbita-demo)** — многостраничный сайт на Next.js 16 + TypeScript strict с потоковым AI-консультантом на Anthropic Messages API, техническим SEO и разметкой под AI-поисковики. Вымышленный бренд, рабочая архитектура: можно склонировать и запустить за минуту. Каждое решение объяснено в README — почему SSE вместо WebSocket; почему RSC по умолчанию.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-0C0F13?style=flat-square&logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-16-0C0F13?style=flat-square&logo=nextdotjs)
-![Python](https://img.shields.io/badge/Python-0C0F13?style=flat-square&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C0F13?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0C0F13?style=flat-square&logo=docker)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-0C0F13?style=flat-square&logo=anthropic)
-![Cursor](https://img.shields.io/badge/Cursor-0C0F13?style=flat-square&logo=cursor)
-
-Остальные репозитории — рабочие: лендинг с блогом на Payload, боты для MAX и Telegram, конвейер публикаций, пульт управления проектами.
-
----
+<p>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-strict-1A1917?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-16-1A1917?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1A1917?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-1A1917?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1A1917?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic_API-1A1917?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"></a>
+  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-1A1917?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"></a>
+</p>
 
 ## Написать
 
-- Задача и оценка: [promaren.ru/contacts](https://promaren.ru/contacts/)
-- Разбор вашей страницы: [promaren.ru/audit](https://promaren.ru/audit/) — пришлите ссылку, вернём разбор
-- Почта: [info@promaren.ru](mailto:info@promaren.ru)
-
-Отвечаю лично, обычно в течение двух рабочих дней. Если задача не моя — скажу сразу.
+<p>
+  <a href="https://t.me/Marinochcin"><img src="https://img.shields.io/badge/Telegram-Marinochcin-1A1917?style=flat-square&logo=telegram&logoColor=white" alt="Telegram: @Marinochcin"></a>
+  <a href="mailto:marina.y.pogodina@yandex.ru"><img src="https://img.shields.io/badge/Почта-marina.y.pogodina@yandex.ru-1A1917?style=flat-square&logo=maildotru&logoColor=white" alt="Почта: marina.y.pogodina@yandex.ru"></a>
+  <a href="https://github.com/unnamed00bas"><img src="https://img.shields.io/badge/GitHub-unnamed00bas-1A1917?style=flat-square&logo=github&logoColor=white" alt="GitHub: unnamed00bas"></a>
+</p>
